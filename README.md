@@ -1,4 +1,4 @@
-### Hi there 👋
+### YunSeop's Github Profile 👋
 
 <!--
 **KR-HanYunSeop/KR-HanYunSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
