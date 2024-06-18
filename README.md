@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+iOS Developer
+
 <div align="center">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR-HanYunSeop)](https://github.com/KR-HanYunSeop/github-readme-stats)
