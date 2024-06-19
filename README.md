@@ -1,9 +1,17 @@
 <div align="center">
     
   ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=Aiden's%20Github&height=100&fontSize=50&textBg=false)
-  
-  ### Hi, I'm trying to become an iOS Developer :wave:
 
+  ### Hi, I'm trying to become an iOS Developer :wave:
+  
+  GDSC SCH 4th Core Member
+  <br>
+  Allen Swift Master School 32th
+
+</div>
+
+<div align="center">
+    
   ---
   ### :bulb: Tech Stack :bulb:
   #### Platforms & Languages
@@ -23,8 +31,7 @@
   ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-  #### SNS
-  ![https://www.instagram.com/olxvsub/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  <br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR-HanYunSeop&hide=contribs,prs&show_icons=true&theme=nord)
   
