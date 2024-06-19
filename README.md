@@ -22,7 +22,9 @@
   ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  
+
+  #### SNS
+  ![https://www.instagram.com/olxvsub/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR-HanYunSeop&hide=contribs,prs&show_icons=true&theme=nord)
   
