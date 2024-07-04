@@ -2,7 +2,7 @@
     
   ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=Aiden's%20Github&height=100&fontSize=50&textBg=false)
 
-  ### Hi, I'm trying to become an iOS Developer :wave:
+  ### Hi, I'm trying to become a Project Manager :wave:
   
   GDSC SCH 4th Core Member
   <br>
